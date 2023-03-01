@@ -38,7 +38,7 @@ h3{
 	text-indent: 30px;
 }
 
-h3 a:hover{
+a:focus, a:hover{
 	font-style: italic;
 }
 
@@ -46,6 +46,6 @@ footer p{
 	text-align: center;
 }
 
-em.shadow{
-	text-shadow: 1px 1px 2px #800000;
+.shadow{
+	text-shadow: 2px 2px 2px #800000;
 }
