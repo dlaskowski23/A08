@@ -45,4 +45,7 @@ h3 a:hover{
 footer p{
 	text-align: center;
 }
-	
+
+em{
+	text-shadow: #800000;
+}
