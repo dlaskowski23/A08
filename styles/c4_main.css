@@ -37,3 +37,12 @@ h3{
 	font-style: italic;
 	text-indent: 30px;
 }
+
+h3 a:hover{
+	font-style: italic;
+}
+
+p{
+	text-align: center;
+}
+	
