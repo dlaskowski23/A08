@@ -29,13 +29,13 @@ main h3 {
 h2{
 	font-size: 170%;
 	color: var(--global-color-1);
-	text-indent: 30px;
+	
 }
 
 h3{
 	font-size: 130%;
 	font-style: normal;
-	text-indent: 30px;
+	
 }
 
 a:focus, a:hover{
